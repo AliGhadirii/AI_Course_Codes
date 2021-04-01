@@ -29,4 +29,4 @@
   This code is one of my homework projects in AI course.
   
   Picture bellow is the exact description of the question in Persian:
-  ![picture](/pics/Q6.png)
+  ![picture](/pics/Q6.PNG)
